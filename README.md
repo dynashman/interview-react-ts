@@ -54,3 +54,11 @@ npm run preview
 ```
 
 Serves the production build locally to preview it.
+
+## Result
+
+![Result 1](result_1.png)
+
+![Result 2](result_2.png)
+
+![Result 3](result_3.png)
